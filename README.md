@@ -1,3 +1,4 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=jaimin-techextensor)
 <h1 align="center">👋, I'm Jaimin Shah (j@s)</h1>
 <h3 align="center">A Full stack developer with angular, .NET & SQL</h3>
 <img alt="coding" width="400" height="400" src="https://www.lifewire.com/thmb/iSuul8Y22AMg6bHZ1Pl1hH9MtOU=/400x0/filters:no_upscale():max_bytes(150000):strip_icc()/produce-videogame-videos-for-youtube-3562561-FINAL-faf060283d704b6d8d9180e5ffcef847.gif"/>
