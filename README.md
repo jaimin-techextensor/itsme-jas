@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaiminshah83194" target="blank"><img src="https://img.shields.io/twitter/follow/jaiminshah83194?logo=twitter&style=for-the-badge" alt="jaiminshah83194" /></a> </p>
 
-- 🔭 I’m currently working on **alfirdaws ui and api**
+- 🔭 I’m currently working on **global client solutions**
 
 - 👯 I’m collaborating in **Company's product**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jaimin.shah@techextensor.com**
 
-- ⚡ Fun fact **Photography, Travelling makes me happty....**
+- ⚡ Fun fact **Photography, Travelling makes me happy....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
